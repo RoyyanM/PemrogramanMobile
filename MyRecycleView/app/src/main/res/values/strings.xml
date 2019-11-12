@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akutansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+        <item>UKM Jazirah</item>
+        <item>UKM Rohkris</item>
+        <item>Menwa</item>
+        <item>UKM Racana Pandawa</item>
+        <item>KSR</item>
+        <item>UKM KWU</item>
+        <item>UKM Kopma</item>
+        <item>UKM PECC</item>
+        <item>UKM PP</item>
+        <item>UKM Sport</item>
+        <item>UKM Wapalhi</item>
+        <item>UKM PLBS</item>
+        <item>LPM Dimensi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpunan
+    Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi
+    kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik
+    Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan
+    Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi
+    kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik
+    Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan
+    Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi
+    kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik
+    Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Akuntansi adalah salah satu Himpunan
+    Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi
+    kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik
+    Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Administrasi Bisnis adalah salah satu Himpunan
+    Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi
+    kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik
+    Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disingkat
+    UKM PCC, merupakan organisasi di Politeknik Negeri Semarang yang bergerak di
+    bidang informasi dan teknologi. UKM Polytechnic Computer Club secara eksplisit
+    terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi</item>
+        <item>UKM Komunitas Seni Polines merupakan satusatunya unit kegiatan mahasiswa di
+    Politeknik Negeri Semarang  yang bergerak di bidang Kesenian. Nama UKM Komunitas Seni Polines
+    diresmikan pada tanggal 21 Juni 2003. Fungsi UKM KoNSeP adalah sebagai satu-satunya sarana
+    pembangunan dan penyaluran minat dan bakat Mahasiswa Polines dalam bidang seni dan berorganisasi.</item>
+        <item>UKM Jazirah adalah oerganisasi kemahasiswaan Politeknik Negeri Semarang. yang bergerak
+            di bidang dakwah islam berlandaskan Al-Quran dan As-sunnah. UKM Jazirah adalah UKM di bidang
+            kerohanian khususnya agama islam yang bertujuan menambah nilai-nilai agama islam di Polines.</item>
+        <item>UKM Rokhris atau Rohani Kristiani adalah oerganisasi kemahasiswaan Politeknik Negeri Semarang yang bergerak
+            di bidang kerohanian kristen dan katolik. UKM Rokhris juga dapat mengembangan potensi diri dan keimanan mahasiswa
+            Politeknik Negeri Semarang.</item>
+        <item>Resimen Mahasiswa atau menwa adalah sarana pengembangan diri mahasiswa ke arah perluasan wawasan dan peningkatan
+            keikutsertaan dalam upaya bela negara dan penguatan ketahanan nasional.</item>
+        <item>UKM Racana Pandawa merupakaan salah satu UKM yang bergerak di bidang kepramukaan di tingkat perguruan tinggi dengan
+            gugus depan 05.083-05.084 yang berpangkalan di Politeknik Negeri Semarang.</item>
+        <item>Korps Sukarela atau KSR adalah salah satu wadah sukarelawan yang melakukan kegiatan keepalangmerahan sesuai dengan
+            Tujuh Prinsip Dasar Gerakan Internasional Palang Merah dan Bulan Sabit Merah. Dalam melaksanakan tugasnya, KSR berada
+            di bawah naungan PMI.</item>
+        <item>UKM Kewirausahaan atau KWU merupakan salah satu unit kegiatan mahasiswa yang bergerak di bidang ekonomi. UKM KWU
+            dapat memotivasi dan membangun jiwa kewirausahaan di kalangan mahasiswa Politeknik Negeri Semarang.</item>
+        <item>UKM Koperasi Mahasiswa Bahtera Menunggal atau Kopma merupakan salah satu unit kegiatan mahasiswa di Polines yang
+            bergerak di bidang ekonomi bisnis. yang membedakan UKM Kopma dengan UKM lain adalah UKM kopma telah berbadan hukum.</item>
+        <item>UKM Polytechnic English Conversation Club adalah salah satu unit kegiatan mahasiswa di Polines yang bertujuan untuk
+            meningkatkan kemampuan penggunaan keterampilan bahasa inggris bagi anggota aktif pada khususnya dan mahasiswa Polines pada umumnya.</item>
+        <item>UKM Pengembangan Pengetahuan atau PP merupakan salah satu unit kegiatan mahasiswa di polines yang bergerak di bidang penalaran dan
+            penelitian. UKM PP bertujuan meningkatkan kreatifitas mahasiswa melalui robotika dan Karya ilmiah.</item>
+        <item>UKM Sport merupakan salah satu unit kegiatan mahasiswa di polines yang bergerak di bidang pengembangan minat
+            dan bakat keolahragaan. UKM Sport memiliki 9 cabang olahraga antara lain sepak bola, basket, voli, tenis, karate
+            taekwondo, pencak silat, futsal, dan bulu tangkis.</item>
+        <item>UKM Wahana pecinta Lingkungan Hidup atau UKM Wapalhi merupakan salah satu unit kegiatan mahasiswa di polines yang bergerak di bidang olahraga
+            dan alam bebas. UKM Wapalhi didirikan pada 4 desember 1983 di Politeknik Negeri Semarang.</item>
+        <item>UKM Polytechnic Limited Broadcasting System atau PLBS merupakan unit kegiatan mahasiswa Polines yang bertujuan untuk
+            mengembangan kratifitas dan kemampuan mahasiswa khususnya crew dalam broadcasting, public speaking, dan bidang elektro.</item>
+        <item>Lembaga Pers Mahasiswa Dimensi atau LPM Dimensi adalah lembaga yang satu-satunya bergerak di bidang jurnalisti yaitu pers
+            mahasiswa, serta berfungsi seabgai kontrol sosial. LPM Dimensi adalah organisasi yang bersifat semi otonom.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFCptInRxgr-wD_ktXMmzB8q-GQ0tkudQb7inAL0xPXYgLtZc2</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvkCAO32dsxYO3BydlDkCFO4b2hp8gZBaXA9N0ft_WMSGDQHdz</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaCNz3NRLf_nZe7MpdIoL_i-xk18ifIxOY8g9VYhQpgybdtJL2</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBbjkz37YGqxrKMosxztgtLbgerweTBKM1lL9TIlf22A7Lt8O5</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_MnlrzCKbyxKqxdrVtAbbg-P16BsCpE5E7vnXJLxnitJN7ITG</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGWvhq7N1CA0vx5yoyfykF8Yd8NX_SmVIgbPmdkWJV-0J934O9</item>
+        <item>https://www.polines.ac.id/bpm/assets/images/logo/kopma.png</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcpY5cjFK8lnmdUDId0ycV0Z1Sx0tjydOrxGPP3ahkehNU1Awl</item>
+        <item>https://www.polines.ac.id/bpm/assets/images/logo/pp.png</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQedq9tMLOxORorQRNAicWemIGMbA_QmMJ6yaJ6DhS5dq-Kv9Ss</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTD-Li59ib8gNEw-SP4GqBsjDXiLvV2nRh6c6zdVlACTzt_8ERR</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2DMDryD2RjaWMITfXNkEb7faLejQi3gQflJvlkirBLjxyW-4J</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJHs-2R3s_ZrhGB_8TfSq_PhZPBz_gkuK-r1X5GexrcFx-uyI5</item>
+
+    </string-array>
+</resources>
