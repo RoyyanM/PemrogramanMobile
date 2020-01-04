@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="random">Saya sumpahin kamu yang melihat tulisan ini akan sehat selalu, dimudahkan rejekinya, dapat terselesaikan masalahnya</string>
+    <string name="app_name">MyLocalization</string>
+
+    <plurals name="numberOfSongsAvailable">
+    <item quantity="one">%d gambar ditemukan.</item>
+    <item quantity="other">%d gambar ditemukan.</item>
+    </plurals>
+
+    <string name="app_homeurl">Kunjungi saya di <xliff:g id="homepage">https://github.com/RoyyanM/PemrogramanMobile</xliff:g></string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string name="tab_text1">Beranda</string>
+    <string name="tab_text2">Profil</string>
+
+    <string name="nama">Nama</string>
+    <string name="nama2">: Royyan Mustawan</string>
+    <string name="alamat">Alamat</string>
+    <string name="alamat2">: Gg. baskoro no 62b</string>
+    <string name="hobi">Hobi</string>
+    <string name="hobi2">: Nonton film</string>
+    <string name="quote">Quote</string>
+    <string name="quote2">: Ad astra per aspera</string>
+</resources>
